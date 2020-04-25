@@ -1,0 +1,26 @@
+<annotation>
+	<folder>positve pothole</folder>
+	<filename>392.jpg</filename>
+	<path>D:\pot hole detection\positve pothole\392.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>278</ymin>
+			<xmax>707</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>
